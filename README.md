@@ -2,12 +2,11 @@
 
 <!-- **BiagioFarias/BiagioFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on Salesforce, but I'm looking to be a Technical Recruiter.
+- 🔭 I’m currently working on Salesforce and I am planning to become a part-time Technical Recruiter.
 - 🍁 My technical background is VB.net, Script, Java, JavaScript, C++, Asp.net, Php, XML, SQL, CSS and HTML.
+- 💬 Ask me anything about Salesforce.
 - 🌱 I’m currently learning Python.
-- 💬 Ask me about working as a developer and where to study code.
 - 📫 How to reach me: https://www.linkedin.com/in/biagiofarias/
-- 😄 Pronouns: He/Him/His
 
 ### Languages and frameworks
 <p><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
